@@ -1,10 +1,9 @@
-
 import * as m from "../lib/modernExtend";
 import type {DefinitionWithExtend} from "../lib/types";
 
 export const definitions: DefinitionWithExtend[] = [
     {
-        zigbeeModel: ["openlumi.router.dgnwg05lm"],
+        zigbeeModel: ["openlumi.gw_router.dgnwg05lm"],
         model: "LR-DGNWG05LM",
         vendor: "OpenLumi",
         description: "Lumi Router (for Xiaomi DGNWG05LM)",
