@@ -16,7 +16,7 @@ export const definitions: DefinitionWithExtend[] = [
         ],
     },
     {
-        zigbeeModel: ["openlumi.gw_router.dgnwg05lm.rgb"],
+        zigbeeModel: ["openlumi.router.dgnwg05lm.rgb"],
         model: "LR-DGNWG05LM-RGB",
         vendor: "OpenLumi",
         description: "Lumi Router (for Xiaomi DGNWG05LM) with Zigbee RGB light",
